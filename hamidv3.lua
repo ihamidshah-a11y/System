@@ -14,8 +14,8 @@ local StarterGui = game:GetService("StarterGui")
 if CoreGui:FindFirstChild("ToxicChocoSpammer") then
     CoreGui.ToxicChocoSpammer:Destroy()
 end
-if CoreGui:FindFirstChild("ARHANDaddySpammer") then
-    CoreGui.ARHANDaddySpammer:Destroy()
+if CoreGui:FindFirstChild("ToxicChocoSpammer") then
+    CoreGui.ToxicChocoSpammer:Destroy()
 end
 
 -- ScreenGui Setup
