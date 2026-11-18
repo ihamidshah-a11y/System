@@ -11,7 +11,7 @@ local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local StarterGui = game:GetService("StarterGui")
 
 -- Cleanup old GUI if exists
-if CoreGui:FindFirstChild("ARHANSpammer") then
+if CoreGui:FindFirstChild("ToxicChocoSpammer") then
     CoreGui.ToxicChocoSpammer:Destroy()
 end
 if CoreGui:FindFirstChild("ARHANDaddySpammer") then
